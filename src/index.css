@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.resource {
+  padding: 1rem;
+  background-color: #ededed;
+}
+button {
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
+}
